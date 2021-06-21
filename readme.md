@@ -1,0 +1,1 @@
+Space DB é um projeto que simula o controle de pessoal e expedições de uma estação espacial fictícia 
